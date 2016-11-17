@@ -1,6 +1,7 @@
 ===-----------------------------------------------------------------------===//
 
 Project 2: Do-It-Yourself Standard Library
+
   Authors: Michael Aboff, Mauricio Ferrato, Darsh Patel, Edwin Ortiz, Eric Wright
 
 ===----------------------------------------------------------------------===//
